@@ -1,0 +1,15 @@
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\obj\Debug\net6.0\PrimeInput.csproj.AssemblyReference.cache
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\obj\Debug\net6.0\PrimeInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\obj\Debug\net6.0\PrimeInput.AssemblyInfoInputs.cache
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\obj\Debug\net6.0\PrimeInput.AssemblyInfo.cs
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\obj\Debug\net6.0\PrimeInput.csproj.CoreCompileInputs.cache
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\bin\Debug\net6.0\PrimeInput.exe
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\bin\Debug\net6.0\PrimeInput.deps.json
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\bin\Debug\net6.0\PrimeInput.runtimeconfig.json
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\bin\Debug\net6.0\PrimeInput.dll
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\bin\Debug\net6.0\ref\PrimeInput.dll
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\bin\Debug\net6.0\PrimeInput.pdb
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\obj\Debug\net6.0\PrimeInput.dll
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\obj\Debug\net6.0\ref\PrimeInput.dll
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\obj\Debug\net6.0\PrimeInput.pdb
+C:\Users\ceb19\source\repos\PrimeInput\PrimeInput\obj\Debug\net6.0\PrimeInput.genruntimeconfig.cache
