@@ -9,6 +9,8 @@ dist/
 
 # Visual Studio
 .vs/
+obj/
+bin/
 
 # Compiled Java class files
 *.class
